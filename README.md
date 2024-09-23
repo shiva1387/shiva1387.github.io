@@ -13,12 +13,7 @@ I'm Shivshankar Umashankar, a specialist in AI and healthcare data science with 
 - **Patents**: Holder of 5 international patents in AI/ML for healthcare. [View Patents](https://scholar.google.com/citations?user=K8XatykAAAAJ&hl=en)
 
 ### 🚀 **Current Focus**
-I am currently focused on advancing AI-based healthcare models, creating ethical AI governance frameworks, and using knowledge graphs to drive innovation in personalized medicine and population health in Singapore and India.
-
-### 🛠 **Skills & Tools**
-- **Languages**: Python, R, SQL
-- **Frameworks/Tools**: Databricks, Neo4j, TensorFlow
-- **Specializations**: Knowledge Graphs, NLP, AI in Healthcare, Data Analytics
+I am currently focused on advancing AI-based healthcare models, creating ethical AI governance frameworks, and using knowledge graphs to drive innovation in personalized medicine and population health.
 
 ### 📫 **Contact**
 - **LinkedIn**: [Shivshankar Umashankar](https://www.linkedin.com/in/shivshankarumashankar)
