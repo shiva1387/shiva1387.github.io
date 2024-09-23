@@ -21,6 +21,5 @@ I am currently focused on advancing AI-based healthcare models, creating ethical
 - **Specializations**: Knowledge Graphs, NLP, AI in Healthcare, Data Analytics
 
 ### 📫 **Contact**
-- **Email**: shiva1387@gmail.com
 - **LinkedIn**: [Shivshankar Umashankar](https://www.linkedin.com/in/shivshankarumashankar)
 - **Google Scholar**: [Publications](https://scholar.google.com/citations?user=K8XatykAAAAJ&hl=en)
