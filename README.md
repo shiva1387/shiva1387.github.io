@@ -36,34 +36,28 @@ Leading the Responsible AI track and LLM/agentic architecture for a large-scale 
 
 ### 🔬 **Research Areas I Actively Track & Apply**
 
-I follow the frontier of agentic AI research and apply it directly to architecture decisions, evaluation design, and governance frameworks in production programs:
+I follow the frontier of agentic AI research and translate it into architecture decisions, evaluation design, and governance frameworks in production programs:
 
-#### 🤖 Agentic Architecture, Memory & Reasoning
-- **Agent Memory Systems** — Unified frameworks for agent memory (in-context, external, episodic, semantic); distinguishing memory from RAG and LLM context
-- **Persistent Agent Frameworks** — Long-horizon agent identity, meta-cognitive adaptation, and System 3 reasoning for sustained autonomous operation
-- **Neuron-Pair Memory & Sparse Activation** — Efficient memory architectures for agent cognition
-- **Adaptive Agent Learning** — Continuous learning mechanisms for deployed agents in enterprise settings
-- **Deep Agentic Workflows** — Unified reasoning, tool use, and execution across multi-step agent pipelines
+#### 🤖 Agentic Architecture & Memory
+- **Agent memory and state management** — Designing how agents retain and reason over context across sessions, tools, and task horizons; balancing in-context, external, and episodic memory for enterprise reliability
+- **Long-horizon and adaptive agents** — Building agent systems that sustain coherent goals, recover from failure, and improve from experience without drifting from business intent
 
-#### 📊 Agentic Evaluation & Benchmarking
-- **AEMA** — Verifiable, process-aware evaluation framework for trustworthy and controlled agentic LLM systems; auditable multi-agent evaluation under human oversight
-- **POLARIS** — Typed plan synthesis, rubric-guided reasoning, and validator-gated execution for governed agentic AI in back-office automation
-- **ReflAct** — World-grounded decision making in LLM agents
-- **TravelPlanner & HammerBench** — Real-world planning benchmarks and fine-grained function-calling evaluation for agentic systems
+#### 📊 Evaluation & Benchmarking for Agentic AI
+- **Process-aware, auditable evaluation** — Shifting from output-level scoring to step-by-step verification of agent reasoning, tool use, and decision traces — enabling trust and auditability at scale
+- **Enterprise task benchmarking** — Evaluating agents on real-world planning, back-office automation, and function-calling scenarios to assess production readiness, not just capability
 
 #### 🛡️ AI Safety, Guardrails & Threat Modeling
-- **Diagnostic Guardrail Frameworks** — Three-dimensional agentic risk taxonomy (source, failure mode, consequence) for agent safety and security
-- **Security Threat Modeling for Emerging AI-Agent Protocols** — Attack vectors in MCP, A2A, and Agora agent communication protocols
-- **SAGA** — Governed access control frameworks for agentic AI
+- **Structured risk classification** — Categorising agentic failures by source, mode, and consequence to build targeted, traceable safety controls that scale across complex deployments
+- **Agent protocol security** — Threat modelling for emerging agent communication standards and tool ecosystems; identifying attack surfaces before they reach production
+- **Governed access and delegation** — Controlling what agents can act on, escalate, or hand off — especially critical in multi-agent and regulated enterprise environments
 
-#### 🔒 TRiSM, Governance & Responsible AI
-- **TRiSM for Agentic AI** — Trust, Risk, and Security Management in LLM-based multi-agent systems; covers explainability, ModelOps, security, privacy, and governance aligned to NIST AI RMF, ISO/IEC 42005, and OWASP
-- **Feedback-Loop Architecture & North Star Design** — Applied to production AI program design for continuous alignment and observability
+#### 🔒 Trust, Risk & Governance (TRiSM)
+- **End-to-end AI TRiSM** — Operationalising trust, risk, and security management across explainability, ModelOps, privacy, and regulatory alignment (NIST AI RMF, ISO/IEC 42005, OWASP) for deployed AI systems
+- **Continuous alignment and observability** — Feedback-loop architectures that keep AI systems aligned with business intent, regulatory requirements, and human oversight over time
 
-#### 🗃️ RAG, Knowledge Graphs & Hybrid Retrieval
-- **Hybrid RAG** — Combining dense retrieval, knowledge graphs, and structured data for enterprise Q&A
-- **Financial Knowledge Graph Construction** — Knowledge graph construction over financial filings for domain-specific reasoning
-- **Knowledge Layer Architecture** — Designing knowledge infrastructure as a first-class component in enterprise AI stacks
+#### 🗃️ Knowledge Architecture & Retrieval
+- **Hybrid retrieval design** — Combining semantic search, structured data, and knowledge graphs to improve grounding, reduce hallucination, and support complex multi-hop reasoning in enterprise applications
+- **Domain knowledge layers** — Treating curated knowledge infrastructure — ontologies, knowledge graphs, domain corpora — as a first-class architectural component in finance and healthcare AI systems
 
 ---
 
