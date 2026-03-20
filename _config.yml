@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: My website
+title: Shivshankar Umashankar
 
 # Your name to show in the footer
 author: Shivshankar Umashankar
@@ -49,9 +49,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
+  linkedin: shivshankarumashankar
+  google-scholar: K8XatykAAAAJ
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -66,7 +67,6 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  bluesky: yourname
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -76,7 +76,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: AI & healthcare data science insights by Shivshankar Umashankar — covering GenAI, knowledge graphs, digital twins, and AI ethics in healthcare.
 
 ###########################
 # --- General options --- #
@@ -91,7 +91,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "shiva1387.github.io"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
