@@ -6,28 +6,68 @@
 
 ## 👋 Welcome to My GitHub Pages Site!
 
-I am an AI and healthcare data science leader with over 15 years of experience, specializing in developing advanced AI/ML solutions, knowledge graphs, and digital health strategies. Currently at **Accenture** as an LLM / RAI Architect and Responsible AI Manager, I lead enterprise-scale responsible AI programs — designing governance frameworks, embedding RAI-by-design guardrails, and shaping LLM/agentic reference architectures for safe, compliant AI deployment. I have worked extensively in the domains of personalized medicine, population health, and AI ethics, particularly within the healthcare sectors in Singapore and India.
+I am an AI leader with over 15 years of experience at the intersection of responsible AI, agentic systems, and healthcare data science. Currently at **Accenture**, I serve as an **LLM / RAI Architect and Responsible AI Manager**, leading enterprise-scale programs that bridge cutting-edge AI research with practical governance, safe deployment, and compliant LLM/agentic architecture. My work spans the full stack — from shaping target-state reference architectures and embedding RAI-by-design guardrails, to defining evaluation frameworks for agentic AI and translating policy into executable controls.
+
+I actively track and apply frontier research in agentic AI, responsible AI governance, memory architectures, and multi-agent evaluation — translating academic advances into real-world enterprise deployments, particularly in financial services and healthcare.
+
+---
 
 ### 🌐 **About Me**
 - **Current Role**: LLM / RAI Architect & Responsible AI Manager at Accenture
-- **Expertise**: AI/ML in Healthcare, Knowledge Graphs, Personalized Medicine, Population Health, Responsible AI, Agentic AI
-- **Current Focus**: Responsible AI governance, LLM/agentic architecture, AI safety frameworks, and policy-to-controls translation for enterprise AI programs
+- **Expertise**: Responsible AI, Agentic AI Architecture, LLM Evaluation, Knowledge Graphs, Healthcare AI, AI Governance
+- **Current Focus**: Agentic evaluation frameworks, RAI-by-design, policy-to-controls translation, LLM reference architecture, and AI safety for enterprise programs
 - **Publications**: 20+ scientific papers, 1000+ citations, h-index: 9. [View Publications](https://scholar.google.com/citations?user=K8XatykAAAAJ&hl=en)
 - **Patents**: 5 international patents for AI/ML applications in healthcare. [View Patents](https://scholar.google.com/citations?user=K8XatykAAAAJ&hl=en)
 
+---
+
 ### 🏢 **Current Work at Accenture** *(LLM / RAI Architect & Responsible AI Manager)*
 
-Leading the Responsible AI (RAI) track for a large-scale AI / GenAI / Agentic AI program:
+Leading the Responsible AI track and LLM/agentic architecture for a large-scale enterprise AI program:
 
-- **RAI Strategy & Governance**: Driving strategy, governance direction, and stakeholder alignment end-to-end across a complex enterprise AI program.
-- **RAI-by-Design**: Embedding guardrails into solution design, bridging regulatory and technical requirements into deployable controls with shortened development cycles.
-- **Agentic Evaluation**: Defined evaluation and testing framework for AI/agentic use cases — including governance checkpoints, risk tiering, and readiness criteria for safe deployment.
-- **LLM & Solution Architecture**: Shaped target-state reference architecture, patterns, and guidelines across model deployments, RAI, monitoring/observability, and operating controls.
-- **Policy-to-Controls Translation**: Clarified governance units, ownership/roles, and edge-case handling to make governance executable.
-- **Cross-Functional Coordination**: Synchronized data science, compliance, and business teams; providing client-facing guidance and training.
+- **RAI Strategy & Governance**: Driving end-to-end RAI strategy, governance direction, and stakeholder alignment across a complex AI / GenAI / Agentic AI program.
+- **RAI-by-Design**: Embedding guardrails into solution design from the ground up — bridging regulatory requirements and technical constraints into deployable controls with shortened development cycles.
+- **Agentic Evaluation Framework**: Designed evaluation and testing methodology for AI/agentic use cases — covering governance checkpoints, risk tiering, readiness criteria, and safe deployment gates.
+- **LLM & Solution Architecture**: Shaped target-state reference architecture, model deployment patterns, and guidelines spanning RAI, monitoring/observability, and operating controls across the AI estate.
+- **Policy-to-Controls Translation**: Translated governance principles into executable controls — clarifying ownership, roles, and edge-case handling to make governance operationally real.
+- **Cross-Functional Leadership**: Synchronized data science, compliance, legal, and business teams; delivering client-facing guidance, governance training, and RAI readiness reviews.
+
+---
+
+### 🔬 **Research Areas I Actively Track & Apply**
+
+I follow the frontier of agentic AI research and apply it directly to architecture decisions, evaluation design, and governance frameworks in production programs:
+
+#### 🤖 Agentic Architecture, Memory & Reasoning
+- **Agent Memory Systems** — Unified frameworks for agent memory (in-context, external, episodic, semantic); distinguishing memory from RAG and LLM context *(arXiv: 2512.13564)*
+- **Persistent Agent Frameworks** — Long-horizon agent identity, meta-cognitive adaptation, and System 3 reasoning for sustained autonomous operation *(Sophia, arXiv: 2512.18202)*
+- **Neuron-Pair Memory & Sparse Activation** — Efficient memory architectures for agent cognition *(Dragon Hatchling, arXiv: 2509.26507)*
+- **Adaptive Agent Learning** — Continuous learning mechanisms for deployed agents in enterprise settings *(arXiv: 2510.04373)*
+- **DeepAgent** — Unified reasoning, tool use, and execution for deep agentic workflows *(arXiv: 2510.21618)*
+
+#### 📊 Agentic Evaluation & Benchmarking
+- **AEMA** — Verifiable, process-aware evaluation framework for trustworthy and controlled agentic LLM systems; auditable multi-agent evaluation under human oversight *(arXiv: 2601.11903)*
+- **POLARIS** — Typed plan synthesis, rubric-guided reasoning, and validator-gated execution for governed agentic AI in back-office automation *(arXiv: 2601.11816)*
+- **ReflAct** — World-grounded decision making in LLM agents
+- **TravelPlanner & HammerBench** — Real-world planning benchmarks and fine-grained function-calling evaluation for agentic systems
+
+#### 🛡️ AI Safety, Guardrails & Threat Modeling
+- **AgentDoG** — Diagnostic guardrail framework with a three-dimensional agentic risk taxonomy (source, failure mode, consequence) for agent safety and security *(arXiv: 2601.18491)*
+- **Security Threat Modeling for Emerging AI-Agent Protocols** — Attack vectors in MCP, A2A, and Agora agent communication protocols
+- **SAGA** — Governed access control frameworks for agentic AI
+
+#### 🔒 TRiSM, Governance & Responsible AI
+- **TRiSM for Agentic AI** — Trust, Risk, and Security Management in LLM-based multi-agent systems; covers explainability, ModelOps, security, privacy, and governance aligned to NIST AI RMF, ISO/IEC 42005, and OWASP *(arXiv: 2506.04133)*
+- **Feedback-Loop Architecture & North Star Design** — Applied to production AI program design for continuous alignment and observability
+
+#### 🗃️ RAG, Knowledge Graphs & Hybrid Retrieval
+- **Hybrid RAG** — Combining dense retrieval, knowledge graphs, and structured data for enterprise Q&A *(arXiv: 2408.04948)*
+- **FinReflectKG** — Knowledge graph construction over financial filings (SEC 10-K) for domain-specific reasoning *(arXiv: 2508.17906)*
+- **Knowledge Layer Architecture** — Designing knowledge infrastructure as a first-class component in enterprise AI stacks
+
+---
 
 ### 🚀 **Past Projects**
-Here are a few highlighted projects that represent my journey in AI and healthcare:
 
 1. **Healthcare Digital Twins**: Developed and deployed digital twin models at Holmusk to simulate patient journeys and healthcare interventions, enabling real-time decision-making for clinical outcomes and remote health monitoring.
 
@@ -36,6 +76,8 @@ Here are a few highlighted projects that represent my journey in AI and healthca
 3. **Population Health Models**: At PwC and Holmusk, built AI-driven population health models leveraging real-world data (EHR, SDoH, claims) to predict disease risks, optimize treatment protocols, and improve healthcare delivery for national health systems in Singapore and India.
 
 4. **Data Governance and Quality Frameworks**: As Lead Data Scientist at Holmusk, designed and implemented data governance frameworks in Databricks, enabling enhanced data quality management and efficient deployment of AI/ML solutions for healthcare clients.
+
+---
 
 ### 🛠 **Skills & Tools**
 
@@ -46,9 +88,11 @@ Here are a few highlighted projects that represent my journey in AI and healthca
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-- **Specializations**: Responsible AI, LLM Architecture, Agentic AI, Knowledge Graphs, NLP, Digital Twins, Personalized Medicine
+- **Specializations**: Responsible AI, Agentic AI Architecture, LLM Evaluation & Benchmarking, Knowledge Graphs, RAG, NLP, Digital Twins, Personalized Medicine
 - **Healthcare IT**: Population Health Models, Predictive Analytics, Analytics Program Management
-- **Leadership**: Stakeholder Engagement, Cross-Functional Team Leadership, Strategic Planning
+- **Leadership**: Stakeholder Engagement, Cross-Functional Team Leadership, AI Governance, Strategic Planning
+
+---
 
 ### 📫 **Contact**
 - **Website**: [shiva1387.github.io](https://shiva1387.github.io)
