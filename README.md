@@ -39,30 +39,30 @@ Leading the Responsible AI track and LLM/agentic architecture for a large-scale 
 I follow the frontier of agentic AI research and apply it directly to architecture decisions, evaluation design, and governance frameworks in production programs:
 
 #### 🤖 Agentic Architecture, Memory & Reasoning
-- **Agent Memory Systems** — Unified frameworks for agent memory (in-context, external, episodic, semantic); distinguishing memory from RAG and LLM context *(arXiv: 2512.13564)*
-- **Persistent Agent Frameworks** — Long-horizon agent identity, meta-cognitive adaptation, and System 3 reasoning for sustained autonomous operation *(Sophia, arXiv: 2512.18202)*
-- **Neuron-Pair Memory & Sparse Activation** — Efficient memory architectures for agent cognition *(Dragon Hatchling, arXiv: 2509.26507)*
-- **Adaptive Agent Learning** — Continuous learning mechanisms for deployed agents in enterprise settings *(arXiv: 2510.04373)*
-- **DeepAgent** — Unified reasoning, tool use, and execution for deep agentic workflows *(arXiv: 2510.21618)*
+- **Agent Memory Systems** — Unified frameworks for agent memory (in-context, external, episodic, semantic); distinguishing memory from RAG and LLM context
+- **Persistent Agent Frameworks** — Long-horizon agent identity, meta-cognitive adaptation, and System 3 reasoning for sustained autonomous operation
+- **Neuron-Pair Memory & Sparse Activation** — Efficient memory architectures for agent cognition
+- **Adaptive Agent Learning** — Continuous learning mechanisms for deployed agents in enterprise settings
+- **Deep Agentic Workflows** — Unified reasoning, tool use, and execution across multi-step agent pipelines
 
 #### 📊 Agentic Evaluation & Benchmarking
-- **AEMA** — Verifiable, process-aware evaluation framework for trustworthy and controlled agentic LLM systems; auditable multi-agent evaluation under human oversight *(arXiv: 2601.11903)*
-- **POLARIS** — Typed plan synthesis, rubric-guided reasoning, and validator-gated execution for governed agentic AI in back-office automation *(arXiv: 2601.11816)*
+- **AEMA** — Verifiable, process-aware evaluation framework for trustworthy and controlled agentic LLM systems; auditable multi-agent evaluation under human oversight
+- **POLARIS** — Typed plan synthesis, rubric-guided reasoning, and validator-gated execution for governed agentic AI in back-office automation
 - **ReflAct** — World-grounded decision making in LLM agents
 - **TravelPlanner & HammerBench** — Real-world planning benchmarks and fine-grained function-calling evaluation for agentic systems
 
 #### 🛡️ AI Safety, Guardrails & Threat Modeling
-- **AgentDoG** — Diagnostic guardrail framework with a three-dimensional agentic risk taxonomy (source, failure mode, consequence) for agent safety and security *(arXiv: 2601.18491)*
+- **Diagnostic Guardrail Frameworks** — Three-dimensional agentic risk taxonomy (source, failure mode, consequence) for agent safety and security
 - **Security Threat Modeling for Emerging AI-Agent Protocols** — Attack vectors in MCP, A2A, and Agora agent communication protocols
 - **SAGA** — Governed access control frameworks for agentic AI
 
 #### 🔒 TRiSM, Governance & Responsible AI
-- **TRiSM for Agentic AI** — Trust, Risk, and Security Management in LLM-based multi-agent systems; covers explainability, ModelOps, security, privacy, and governance aligned to NIST AI RMF, ISO/IEC 42005, and OWASP *(arXiv: 2506.04133)*
+- **TRiSM for Agentic AI** — Trust, Risk, and Security Management in LLM-based multi-agent systems; covers explainability, ModelOps, security, privacy, and governance aligned to NIST AI RMF, ISO/IEC 42005, and OWASP
 - **Feedback-Loop Architecture & North Star Design** — Applied to production AI program design for continuous alignment and observability
 
 #### 🗃️ RAG, Knowledge Graphs & Hybrid Retrieval
-- **Hybrid RAG** — Combining dense retrieval, knowledge graphs, and structured data for enterprise Q&A *(arXiv: 2408.04948)*
-- **FinReflectKG** — Knowledge graph construction over financial filings (SEC 10-K) for domain-specific reasoning *(arXiv: 2508.17906)*
+- **Hybrid RAG** — Combining dense retrieval, knowledge graphs, and structured data for enterprise Q&A
+- **Financial Knowledge Graph Construction** — Knowledge graph construction over financial filings for domain-specific reasoning
 - **Knowledge Layer Architecture** — Designing knowledge infrastructure as a first-class component in enterprise AI stacks
 
 ---
